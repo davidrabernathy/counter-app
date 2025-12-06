@@ -95,7 +95,7 @@ And that's all! No other stuff like build processes or dependecies required.
 
 - Add keyboard shortcuts (up/down arrows)
 - Save counter value to localStorage
-- Add custome increment amounts
+- Add custom increment amounts
 - Include sound effects
 - Dark mode toggle
 - Counter history/undo feature
