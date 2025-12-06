@@ -2,8 +2,6 @@
 
 Simple and clean, responsive counter app built with vanilla Javascript, HTML5, and CSS3.
 
-Live Demo Here:
-
 # Features
 
 - Increment/Decrement: Adjust counter value with inuitive and responsive buttons
