@@ -19,11 +19,12 @@ Live Demo Here:
 - Vanilla Javascript: DOM manipulation and event handling
 
 # Project structure
-...
+```
 counter-app/
-|---index.html  # main html structure
-|---style.css   # styling and animations
-|___script.js   # counter logic and interactivty
+├──index.html  # main html structure
+├──style.css   # styling and animations
+└── script.js   # counter logic and interactivty
+```
 
 # Key concepts
 
