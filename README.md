@@ -64,7 +64,7 @@ counter-app/
     }
     ```
 
-    The animation is triggered by adding/removing the 'bump' class with Javascript, creating a smooth viusal bounch effect
+    The animation is triggered by adding/removing the 'bump' class with Javascript, creating a smooth viusal bounce effect
 
 # Setup
 
