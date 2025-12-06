@@ -2,7 +2,9 @@
 
 Simple and clean, responsive counter app built with vanilla Javascript, HTML5, and CSS3.
 
-LIVE DEMO: https://davidrabernathy.github.io/counter-app/
+LIVE DEMO
+
+https://davidrabernathy.github.io/counter-app/
 
 Click the link above to try it out on your browser!
 
