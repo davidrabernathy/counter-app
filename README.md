@@ -34,7 +34,7 @@ counter-app/
 - Event Handling: Click event listeners for user interactions
 - CSS Animations: Transform and transition properties for visual effects
 - State Management: Tracking counter value with Javascript variables
-- Seperation of Concerns: Clean seperation of HTML, CSS, and Javascript
+- Separation of Concerns: Clean seperation of HTML, CSS, and Javascript
 - Responsive Design: Flexbox centering and mobile-friendly layout
 
 # How It Works
